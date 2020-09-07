@@ -1,0 +1,169 @@
+.level {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #0D1D26;
+box-shadow: 0px 15px 30px rgba(2, 6, 9, 0.25);
+border-radius: 27px;
+}
+.level .content-level .judul{
+    font-family: Poppins;
+    color: white;
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 44px;
+}
+.level .col-12{
+    display: flex;
+}
+
+.level .content-level{
+    margin: auto;
+}
+.level .content-level div{
+    float: left;
+}
+@media(width:650px){
+    
+}
+.level .content-level .sub-judul{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 20px;
+color: white;
+
+/* or 111% */
+
+}
+
+/* tentang kami */
+.learn .text-detail {
+    display: none;
+}
+
+.learn .menu {
+ margin-bottom: 40px;
+}
+
+.learn a{
+    font-weight: 900;
+
+}
+.learn a:hover, .learn a.aktive{
+    background-color: #c80a00;
+}
+.learn .text-detail.aktive{
+    display: block;
+}
+
+.learn .training-id .col-12 p:nth-child(2),.learn .softskill-id .col-12 p:nth-child(2) {
+    color: #C4C4C4;
+}
+
+.learn .softskill-id .gambar {
+    display: flex;
+}
+.learn .softskill-id .gambar img {
+    margin: auto;
+}
+
+.biaya-pelatihan .card{
+    background-color: #0D1D26;
+    border-radius: 0px;
+}
+
+.biaya-pelatihan .promo-full{
+    background-color: #022F48;
+
+}
+.biaya-pelatihan .card .card-title{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 25px;
+line-height: 35px;
+letter-spacing: 0.005em;
+}
+
+.promo span, .normal span{
+    font-size: 18px;
+    line-height: 21px;
+}
+/* .biaya-pelatihan .judul {
+    
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.fasilitas-pembayaran .judul {
+    
+    padding-top: 80px;
+    padding-bottom: 10px;
+} */
+
+/* .fasilitas-pembayaran .row{
+    display: flex;
+}
+
+.fasilitas-pembayaran .col-12{
+    margin: auto;
+} */
+
+.tentang-kami .judul {
+    padding-top: 40px !important;;
+}
+.tentang-kami {
+    padding-bottom: 60px;
+}
+.tentang-kami .judul h2 {
+    font-weight: bold !important;;
+}
+
+.head {
+    min-height: 600px;
+    background:url('https://redhunter.id/wp-content/uploads/2020/01/banner-homepage-Web-Development-for-Beginner.png');
+    display: flex;
+
+    background-repeat: no-repeat;
+    background-size: cover; background-position: top;
+    position: relative;
+    background-attachment: fixed;
+}
+@media(min-width:720px){
+    .level {
+        margin-top: -110px;
+        position: relative;
+        z-index: 1000;
+    }
+}
+
+.judul-courses {
+    color: black !important;
+}
+.text-detail-card .judul-courses{
+    font-size: 19px !important;
+    color: black !important;
+    line-height: 1.87;
+    font-weight: 900;
+}
+.text-detail-card .deskripsi {
+    font-weight: 600;
+    color:#555A64;
+    font-size: 14px;
+    line-height: 1.57;
+}
+
+.text-detail-card {
+   border-radius: 10px;
+    margin: auto;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: hsl(0, 0%, 80%) 0 0 16px;
+    background-color: white;
+}
+
+.content {
+    padding-top: 60px;
+}

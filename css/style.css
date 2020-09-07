@@ -1,0 +1,145 @@
+body{
+    background-color: white;
+    font-family: 'Montserrat' ,sans-serif;
+    position: relative;
+}
+.img-navbar {
+    width: 220px !important;
+}
+
+.nav-item{
+    margin-right: 20px;
+    color: white !important;
+    
+}
+.btn-sign-up{
+    margin-right: -20px;
+    background-color: #c80a00 !important;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    text-transform: uppercase;
+    font-weight: 900;
+    padding-top: 8px;
+}
+.navbar {
+    background-color:  none ;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.navbar, .navbar button {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.navbar-nav .dropdown-menu {
+    background-color: black;
+    color: white;
+    border-radius: 0;
+}
+
+.navbar-nav .dropdown-menu {
+    border: 2px solid #3e3e3e;
+}
+
+.navbar-nav .dropdown-menu a {
+color:#3e3e3e;
+    font-weight : bold
+}
+.navbar .dropdown .program {
+    color: white;
+}
+.navbar .dropdown .program:focus {
+    box-shadow: none;
+}
+
+.navbar-nav .dropdown-menu p {
+    padding: .25rem 1.5rem;
+
+}
+
+@media (min-width: 993px) {
+    .navbar-nav .dropdown-menu {
+        width: 900% !important;
+        left: -400%;
+    }
+
+    .navbar-nav .dropdown-menu .col-12:nth-child(2){
+        border-left:2px solid #3e3e3e;
+        border-right:2px solid #3e3e3e
+    }
+
+    
+}
+/* head */
+.head {
+    display: flex;
+    min-height: 655px;
+    background: url('https://redhunter.id/wp-content/uploads/2020/01/banner-homepage-2.png');
+        background-repeat: no-repeat;
+      background-size: cover; background-position: top;
+      position: relative;
+      background-attachment: fixed;
+      
+     
+}
+.head .container {
+    margin: auto;
+    z-index: 1;
+    color:white;
+    /* text-shadow:2px 2px 2px black;  */
+}
+.head h1,p {
+    font-weight: bold;
+}
+
+.head p {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 300 !important;
+}
+
+.head .button a.btn:nth-child(1) {
+    color: white;
+    font-weight: 600 !important;
+    background-color: #c80a00;
+}
+
+.head .button a.btn:nth-child(2) {
+    color:white;
+    font-weight: 600 !important;
+    background-color: none;
+    border: 1px solid white !important;
+}
+
+.head .button a.btn {
+    border-radius: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: content-box;
+}
+
+.head::before{
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.657);
+    position: absolute;
+}
+.colorChange {
+    background-color: black;
+}
+
+@media (max-width: 766px) {
+    /* .head {
+        max-height: 655px;
+    } */
+    .head .button {
+        display: none !important;
+    }
+    .head h1 {
+        font-size: 40px !important;
+    }
+}

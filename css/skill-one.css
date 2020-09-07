@@ -1,0 +1,69 @@
+
+@media(min-width:720px){
+    .level {
+        width: 624px;
+    }
+    .level {
+        margin-top: -140px;
+        position: relative;
+        z-index: 1000;
+    }
+}
+.head {
+    min-height: 600px;
+    background:url('https://redhunter.id/wp-content/uploads/2020/01/banner-homepage-Web-Development-for-Beginner.png');
+    display: flex;
+
+        background-repeat: no-repeat;
+      background-size: cover; background-position: top;
+      position: relative;
+      background-attachment: fixed;
+}
+.content {
+    padding-top: 80px;
+}
+.card-detail-program .judul {
+    color: black !important;
+}
+.card-detail-program .text-detail .judul-courses{
+    font-size: 19px !important;
+    color: black !important;
+    line-height: 1.87;
+    font-weight: 900;
+}
+.card-detail-program .text-detail .deskripsi {
+    font-weight: 600;
+    color:#555A64;
+    font-size: 14px;
+    line-height: 1.57;
+}
+
+.card-detail-program .text-detail {
+   border-radius: 10px;
+    margin: auto;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: hsl(0, 0%, 80%) 0 0 16px;
+    background-color: white;
+}
+.card-detail-program {
+    padding-bottom: 60px;
+}
+
+.text-detail-card{
+    background-color: white;
+    padding-bottom: 20px;
+    box-shadow: hsl(0, 0%, 80%) 0 0 16px;
+    margin-top: 15px;
+}
+
+.text-detail-card .title,.text-detail-card-mengapa .title {
+    font-weight: 600;
+    line-height: 1.8;
+}
+.text-detail-card .deskripsi,.text-detail-card-mengapa .deskripsi {
+    font-weight: 500;
+    font-size:14px;
+    line-height: 1.8;
+}

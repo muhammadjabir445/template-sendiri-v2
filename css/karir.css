@@ -1,0 +1,35 @@
+.media-content{
+    background-color: black;
+}
+.btn-selengkapnya{
+    line-height: 2 ; 
+    color:#c80a00;
+}
+.card-program .card-title {
+    font-size: 19px;
+    line-height: 30px;
+}
+.head {
+    display: flex;
+    min-height: 655px;
+    background: url('https://redhunter.id/wp-content/uploads/2020/01/banner-homepage-Web-Development-for-Beginner.png');
+        background-repeat: no-repeat;
+      background-size: cover; background-position: top;
+      position: relative;
+      background-attachment: fixed;
+     
+}
+@media (max-width: 766px) {
+    /* .head {
+        max-height: 655px;
+    } */
+    .head .button {
+        display: none !important;
+    }
+    .head h1 {
+        font-size: 30px !important;
+    }
+    .head{
+        text-align: left !important;
+    }
+}

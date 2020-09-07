@@ -1,0 +1,24 @@
+.head {
+    display: flex;
+    min-height: 655px;
+    background: url('https://redhunter.id/wp-content/uploads/2020/01/banner-homepage-Skill-Accelerator.png');
+        background-repeat: no-repeat;
+      background-size: cover; background-position: top;
+      position: relative;
+      background-attachment: fixed;
+     
+}
+@media (max-width: 766px) {
+    /* .head {
+        max-height: 655px;
+    } */
+    .head .button {
+        display: none !important;
+    }
+    .head h1 {
+        font-size: 30px !important;
+    }
+    .head{
+        text-align: left !important;
+    }
+}

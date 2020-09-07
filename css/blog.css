@@ -1,0 +1,41 @@
+.content {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+ .content .isi-content{
+     display: flex;
+ }
+ .content .row{
+     display: flex;
+ }
+ .content .col-12{
+     margin: auto;
+ }
+ .content .tgl-blog{
+     flex: 1;
+     margin: auto;
+ }
+  .content .tgl-blog{
+     flex: 1;
+     margin: auto;
+
+ }
+ .content .img-blog{
+    flex: 7;
+    box-sizing: border-box;
+    margin-left: 10px;
+}
+
+.text-judul a {
+	color:black !important;
+	text-decoration:none;
+}
+.text-judul a:hover{
+	color:#c80a00
+}
+
+.navbar {
+    background-color:  black !important ;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}

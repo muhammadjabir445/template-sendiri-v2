@@ -1,0 +1,22 @@
+.tentang-kami .menu {
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+.text-penjelasan .judul-text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.btn.btn-program-route {
+    width: 200px;
+}
+.tentang-kami p {
+        font-size: 14px;
+        font-weight: 400 !important;
+    
+}
+
+.tentang-kami .bold{
+    font-weight: bold;
+}
+

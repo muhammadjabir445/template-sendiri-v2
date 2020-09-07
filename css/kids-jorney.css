@@ -1,0 +1,37 @@
+.head{
+    background: url('https://redhunter.id/wp-content/uploads/2020/01/banner_gamekids3.png');
+    background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.learn {
+    background: url('https://redhunter.id/wp-content/uploads/2020/01/background02.png');
+    background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.learn .judul h2 {
+    color: #3e3e3e;
+}
+.learn .judul p{
+    color:#009da5
+}
+.level {
+    background-color: #009da5;
+}
+.tentang-kami .judul{
+    
+    padding-top: 20px !important;
+}
+
+.tentang-kami .text-judul {
+    color: #009da5;
+    font-weight: 900;
+font-size: 24px;
+line-height: 28px;
+}
+
+.tentang-kami .text-isi {
+    color: black
+}

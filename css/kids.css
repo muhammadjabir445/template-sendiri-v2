@@ -1,0 +1,121 @@
+.head{
+    background: url('https://redhunter.id/wp-content/uploads/2020/01/banner_game_headline.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.learn {
+    background: url('https://redhunter.id/wp-content/uploads/2020/01/game_background01.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.card-program .card{
+    background-color: #f1f1f1;
+}
+
+.card-program .card-body {
+	height:320px !important;
+}
+
+.card-program .card-body::before{
+
+    background-color: #ffb511;
+
+}
+.card-program .card-body p{
+    color:black
+}
+.card-program .card-body h3{
+    color:#009da5
+}
+
+.learn-two .card-program .card{
+    background-color: #bb0000;
+    color: white;
+}
+.learn-two .card-program .card.two{
+    background-color: #ffb511;
+    color: black;
+}
+
+.learn-two .card-program .card-body p,.learn-two .card-program .card-body h3 {
+    color:white
+}
+
+.learn-two .card-program .card.two  .card-body p,.learn-two .card-program .card.two .card-body h3 {
+    color:black
+}
+.learn-two .card-program .card-body::before{
+
+    background-color: #bb0000 !important;
+
+}
+
+.learn-two .card-program .card.two .card-body::before{
+    background-color: #ffb511 !important;
+}
+.learn-two .card-program .card.two .card-body .btn   {
+    background-color: #009da5;
+}
+.learn-two .card-program .card .card-body .btn {
+    background-color: #780000;
+}
+.learn-two{
+    background-color: #eef3fa;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.learn-two .text-target h2:nth-child(1){
+    color:#009da5;
+    font-weight: 900;
+}
+.learn-two .text-target{
+    color:#b0b0b0;
+    padding-top: 40px;
+   
+}
+.learn-two .softskill-id .gambar {
+    display: flex;
+}
+.learn-two .softskill-id .gambar img {
+    margin: auto;
+}
+
+
+.what-we{
+    padding-top: 40px;
+}
+.what-we h2{
+    color:#009da5
+}
+    
+
+.what-we p{
+    font-weight:500;
+}
+.what-we .text-white{
+    color:#009da5 !important;
+    font-weight:bold;
+
+
+}
+
+.testimoni{
+    margin-top: 0px;
+    background-color: white;
+    border-top: 4px solid #009da5;
+}
+.testimoni .text-testimoni .text-comentar p{
+    color: #ffb511 !important;
+}
+
+.media-content{
+    background-color:#ffb511 !important;
+    margin-bottom: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer {
+    margin-top: 0px;
+}
