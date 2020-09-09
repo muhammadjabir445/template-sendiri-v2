@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/skill-one.css">
 
 <?php include('partial/nav_next.php') ?>
-<div class="head kids-game text-center text-white">
+<div class="head kids-game text-left text-white">
         <div class="container">
             <h1>Bangun Kreativitas dan Logika Anak <br>
                     Membuat Game 2D dengan Unity</h1>
@@ -22,6 +22,7 @@
                   <a href="#learn" class="btn mr-sm-5">Lihat Program</a>
                 <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
+            <img style="" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/09/box-game-development-starter-kit-b.png" alt="">
         </div>
             
 </div>
@@ -79,7 +80,7 @@
             <div class="text-detail soft-id aktive" style="padding-top: 40px;" data-id="soft-id">
                 <div class="row">
                     <div class="col-12 col-md-4">
-                    <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/box-hacking-for-kids.png" alt="" class="img-fluid">
+                    <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/09/box-game-development-starter-kit-b.png" alt="" class="img-fluid">
 
                     </div>
                     <div class="col-12 col-md-8 text-left">

@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/skill-one.css">
 <?php include('partial/nav_next.php') ?>
 <div class="head android-expert text-center text-white">
-	<div class="container">
+	<div class="container text-left">
 		<h1>Tingkatkan Skill, Jadilah Profesional <br> Android Developer Bersama RedHunter <br> Academy</h1>
             <br>
             <p>Belajar coding dan menjadi Profesional Android Developer <br> dalam waktu 15 minggu dengan jaminan kerja!</p>
@@ -21,6 +21,7 @@
                 <a href="#learn" class="btn mr-sm-5">Lihat Program</a>
                 <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
+            <img style="" src="https://redhunter.id/wp-content/uploads/2020/09/box-expert-android-hunter-b.png" alt="">
 	</div>
             
  </div>
@@ -79,7 +80,7 @@
             <div class="text-detail soft-id aktive" style="padding-top: 40px;" data-id="soft-id">
                 <div class="row">
                     <div class="col-12 col-md-4">
-                        <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/android-expert-Android-Hunter-small.png" alt="" class="img-fluid">
+                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-expert-android-hunter-b.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
                         <p class="judul-courses">Expert Android Hunter</p>

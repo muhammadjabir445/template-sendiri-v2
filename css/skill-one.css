@@ -1,7 +1,20 @@
 
+.head img {
+    position:absolute;
+    top:15%;
+    right:15%;
+    height:445px;
+    -webkit-filter: drop-shadow( 10px 10px 5px #222);
+    filter: drop-shadow( 10px 10px 5px #222);
+}
+.head h1 {
+    font-size: 30px;
+}
+
 @media(min-width:720px){
     .level {
         width: 624px;
+        
     }
     .level {
         margin-top: -140px;
@@ -9,15 +22,90 @@
         z-index: 1000;
     }
 }
+@media(width:1024px) {
+    .head h1 {
+        font-size: 25px;
+    }
+}
+@media(max-width:760px) {
+    .head {
+        align-content: center;
+    }
+    .head h1 {
+        font-size: 25px;
+    }
+    .head p {
+        font-size: 16px;
+    }
+    .head img {
+        height: 400px;
+    }
+    
+}
+
+@media (max-width:720px) {
+     .head p,.head br{
+        display: none;
+    }
+    .head h1 {
+        margin-top: 30px;
+        font-size: 20px !important;
+    }
+    .head img {
+        position: static;
+        float: left;
+        text-align: center;
+    }
+}
 .head {
     min-height: 600px;
-    background:url('https://redhunter.id/wp-content/uploads/2020/01/banner-homepage-Web-Development-for-Beginner.png');
+    background:url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-web-laravel.png');
     display: flex;
 
-        background-repeat: no-repeat;
-      background-size: cover; background-position: top;
-      position: relative;
-      background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: top;
+    background-attachment: fixed;
+
+    position: relative;
+}
+
+.head.web-intermediate {
+  
+    background-image:url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-web-laravel.png');
+   
+}
+.head.web-expert {
+    background-image:url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-web-laravel-vuejs.png');
+}
+.head.web-beginner {
+    background-image:url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-web-beginner1.png');
+
+}
+.head.android-expert {
+    background-image: url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-android-expert.png');
+}
+.head.android-intermediate{
+    background-image: url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-android-intermediate.png');
+}
+.head.android-basic {
+    background-image: url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-android-basic.png');
+}
+
+.head.game-expert {
+    background-image: url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-game-expert.png');
+}
+.head.game-intermediate{
+    background-image: url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-game-intermediate.png');
+}
+.head.game-basic {
+    background-image: url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-game-beginner.png');
+}
+.head.kids-hacking{
+    background-image: url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-security.png');
+}
+.head.kids-game {
+    background-image: url('https://redhunter.id/wp-content/uploads/2020/09/BANNER-WEBSITE-game-starter-kit.png');
 }
 .content {
     padding-top: 80px;
@@ -66,4 +154,8 @@
     font-weight: 500;
     font-size:14px;
     line-height: 1.8;
+}
+
+.text-detail img {
+    height: 300px;
 }

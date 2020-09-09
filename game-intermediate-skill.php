@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/career.css">
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/skill-one.css">
 <?php include('partial/nav_next.php') ?>
-<div class="head game-intermediate text-center text-white">
+<div class="head game-intermediate text-left text-white">
     <div class="container">
             <h1>Tingkatkan Skill, Jadilah Profesional <br> Game Developer Bersama RedHunter <br> Academy</h1>
             <br>
@@ -21,6 +21,7 @@
                   <a href="#learn" class="btn mr-sm-5">Lihat Program</a>
                 <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
+            <img style="" src="https://redhunter.id/wp-content/uploads/2020/09/box-game-development-2D-for-intermediate-hunter-b.png" alt="">
     </div>
             
 </div>

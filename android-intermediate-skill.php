@@ -1,4 +1,4 @@
-<?php /* Template Name: game-skill-intermediate */ ?>
+<?php /* Template Name: android-skill-intermediate */ ?>
 <?php include('partial/nav.php') ?>
 <!-- ini nsro title  -->
 <title>Redhunter - Belajar Programming secara intensif selama 16 minggu dengan jaminan kerja setelah lulus</title>
@@ -10,17 +10,19 @@
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/career.css">
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/skill-one.css">
 <?php include('partial/nav_next.php') ?>
-<div class="head game-intermediate text-center text-white">
-    <div class="container">
-            <h1>Tingkatkan Skill, Jadilah Profesional <br> Game Developer Bersama RedHunter <br> Academy</h1>
+<div class="head android-intermediate text-center text-white">
+    <div class="container text-left">
+            <h1>Tingkatkan Skill, Jadilah Profesional <br> Android Developer Bersama RedHunter <br> Academy</h1>
             <br>
-            <p>Belajar coding dan menjadi Profesional Game Developer <br> dalam waktu 15 minggu dengan jaminan kerja!</p>
+            <p>Belajar coding dan menjadi Profesional Android Developer <br> dalam waktu 15 minggu dengan jaminan kerja!</p>
             <br>
             <br>
             <div class="button">
                   <a href="#learn" class="btn mr-sm-5">Lihat Program</a>
                 <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
+            <img style="" src="https://redhunter.id/wp-content/uploads/2020/09/box-Intermediate-Android-Hunter-b.png" alt="">
+
     </div>
             
 </div>
@@ -49,7 +51,7 @@
                         <div>
                             <span class="judul">Level</span>
                             <br>
-                            <span class="sub-judul">Expert</span>
+                            <span class="sub-judul">Intermediate</span>
                         </div>
                     </div>
                 </div>
@@ -68,7 +70,7 @@
 			<div class="judul">
                 <h2>Apa yang kamu pelajari ?</h2>
                 <p>Kamu akan mempelajari secara lengkap pemrograman dan algoritma <br>
-                     untuk menjadi seorang Game Developer yang handal walaupun
+                     untuk menjadi seorang Android Developer yang handal walaupun
                       kamu tidak memiliki <br> background IT Sekalipun
                 </p>
             </div>
@@ -78,26 +80,18 @@
             <div class="text-detail soft-id aktive" style="padding-top: 40px;" data-id="soft-id">
                  <div class="row">
                     <div class="col-12 col-md-4">
-                        <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/Game-Development-2D-For-Intermediate-small.png" alt="" class="img-fluid">
+                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Intermediate-Android-Hunter-b.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
-                        <p class="judul-courses">Game Development 2D for Intermediate Hunter</p>
+                        <p class="judul-courses">Intermediate Android Hunter</p>
                         <p class="deskripsi">
                             
-                        Ingin memiliki Game 2D online sendiri?
-                        Tidak perlu pusing memikirkan cara membangun server sendiri karena kita menggunakan aplikasi Photon untuk menyiapkannya untuk kita.
-                        Di dalam training ini kamu akan mendapatkan:
-                        1. Membuat Lobby dan Rooms
-                        2. Sinkronisasi antar Pemain
-                        3. Pengenalan Remote Procedure Call
+                        DMerupakan Next Level dari Basic Android Hunter, disini akan mempelajari hal-hal yang bersifat mandatory/penting dalam pengembangan Aplikasi Android. Beberapa step pembelajaran yang akan dipelajari diantaranya : Fragment pada Android, Membuat Appbar, Membuat Navbar dan Bottombar, Penyimpanan pada Android, Room Library, Menyimpan Data di Internal / External Memory, Menggunakan Library Networking pada Android.
                     </p>
                     </div>
                 </div>
                 
             </div>
-
-
-
         </div>
 
         <!-- testimoni -->

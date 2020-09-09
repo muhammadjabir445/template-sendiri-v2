@@ -11,19 +11,19 @@
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/skill-one.css">
 
 <?php include('partial/nav_next.php') ?>
-<div class="head kids-hacking text-center text-white">
+<div class="head kids-hacking text-left text-white">
     <div class="container">
     <h1>Hacking for Kids <br>
-RedHunter Academy</h1>
+            RedHunter Academy</h1>
             <br>
-            <p>Melatih kemampuan logika serta kreativitas anak <br>
-dan mempelajari dasar penting menjadi seorang Hacker</p>
+            <p>Melatih kemampuan logika serta kreativitas anak <br>dan mempelajari dasar penting menjadi seorang Hacker</p>
             <br>
             <br>
             <div class="button">
                   <a href="#learn" class="btn mr-sm-5">Lihat Program</a>
                 <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
+            <img style="" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/box-hacking-for-kids.png" alt="">
     </div>
            
 </div>

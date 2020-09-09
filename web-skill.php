@@ -6,8 +6,8 @@
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/career.css">
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/skill-one.css">
 <?php include('partial/nav_next.php') ?>
-<div class="head text-center text-white">
-    <div class="container">
+<div class="head web-beginner text-center text-white">
+    <div class="container text-left">
             <h1>Tingkatkan Skill, Jadilah Profesional <br> Web Developer Bersama RedHunter <br> Academy</h1>
             <br>
             <p>Belajar coding dan menjadi Profesional Web Developer <br> dalam waktu 15 minggu dengan jaminan kerja!</p>
@@ -17,6 +17,8 @@
                   <a href="#learn" class="btn mr-sm-5">Pilih Program</a>
                 <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
+            <img style="" src="https://redhunter.id/wp-content/uploads/2020/09/box-Web-Developer-for-Beginner-hunter-b.png" alt="">
+
     </div>
             
 </div>
