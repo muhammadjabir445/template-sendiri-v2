@@ -77,7 +77,7 @@
             <div class="text-detail soft-id aktive" style="padding-top: 40px;" data-id="soft-id">
                 <div class="row">
                     <div class="col-12 col-md-4">
-                        <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/web-Full-Stack-Developer-with-laravel-vue-JS-small.png" alt="" class="img-fluid">
+                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Full-Stack-Developer-with-laravel-vue-JS-b.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
                         <p class="judul-courses">Full Stack Developer with laravel & vue JS</p>
