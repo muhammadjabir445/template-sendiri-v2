@@ -1,4 +1,4 @@
-<div class="bg-tentang" style="background-color: #f3f3f3 !important;">
+<div class="bg-tentang" id="alur" style="background-color: #f3f3f3 !important;">
             <div class="tentang-kami container" >
                 <div class="menu text-center text-white">
                  

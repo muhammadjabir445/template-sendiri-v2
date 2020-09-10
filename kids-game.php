@@ -20,7 +20,7 @@
             <br>
             <div class="button">
                   <a href="#learn" class="btn mr-sm-5">Lihat Program</a>
-                <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
+                <a href="https://api.whatsapp.com/send?phone=628118889611&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
             <img style="" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/09/box-game-development-starter-kit-b.png" alt="">
         </div>
@@ -67,7 +67,7 @@
         <br>
         <?php include('partial/media-partner.php') ?>
         
-        <div class="card-detail-program container">
+        <div class="card-detail-program container" id="learn">
                 <div  class="judul">
                     <h2>Apa yang kamu pelajari ?</h2>
                     <p>Training ini adalah langkah awal kamu untuk mendapatkannya! <br>
@@ -101,5 +101,7 @@
         <!-- testimoni -->
         <?php include('partial/tentang-kami.php') ?>
         <?php include('partial/testimoni.php') ?>
+        <!-- jadwal kelas -->
+        <?php include('partial/jadwal-kelas.php') ?>
     </div>
     <?php include('partial/footer.php') ?>

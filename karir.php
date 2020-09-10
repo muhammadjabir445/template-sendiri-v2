@@ -39,7 +39,7 @@ yang kamu butuhkan.">
             <br>
             <div class="button">
                   <a href="#learn" data-aos-delay="1700" data-aos="zoom-in" class="btn mr-sm-5">Pilih Program</a>
-                <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" data-aos-delay="1700" data-aos="zoom-in" target="_blank" class="btn">Hubungi Kami</a>
+                <a href="https://api.whatsapp.com/send?phone=628118889611&text=&source=&data=&app_absent=" data-aos-delay="1700" data-aos="zoom-in" target="_blank" class="btn">Hubungi Kami</a>
             </div>
     </div>
             

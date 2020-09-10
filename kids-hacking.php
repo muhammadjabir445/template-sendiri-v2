@@ -21,9 +21,9 @@
             <br>
             <div class="button">
                   <a href="#learn" class="btn mr-sm-5">Lihat Program</a>
-                <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
+                <a href="https://api.whatsapp.com/send?phone=628118889611&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
-            <img style="" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/box-hacking-for-kids.png" alt="">
+            <img style="" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/09/box-hacking-kids-b.png" alt="">
     </div>
            
 </div>
@@ -66,7 +66,7 @@
         <br>
         <?php include('partial/media-partner.php') ?>
         
-        <div class="card-detail-program container">
+        <div class="card-detail-program container" id="learn">
                 <div  class="judul">
                     <h2>Apa yang kamu pelajari ?</h2>
                     <p>Training ini adalah langkah awal kamu untuk mendapatkannya! <br>
@@ -79,7 +79,7 @@
             <div class="text-detail soft-id aktive" style="padding-top: 40px;" data-id="soft-id">
                 <div class="row">
                     <div class="col-12 col-md-4">
-                    <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/box-hacking-for-kids.png" alt="" class="img-fluid">
+                    <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/09/box-modul-flashdicsk-hacking-kids.png" alt="" class="img-fluid">
 
                     </div>
                     <div class="col-12 col-md-8 text-left">
@@ -96,6 +96,8 @@
         <!-- testimoni -->
         <?php include('partial/tentang-kami.php') ?>
         <?php include('partial/testimoni.php') ?>
+        <!-- jadwal kelas -->
+        <?php include('partial/jadwal-kelas.php') ?>
 
     </div>
     <?php include('partial/footer.php') ?>

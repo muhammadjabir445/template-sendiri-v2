@@ -18,7 +18,7 @@
             <br>
             <div class="button">
                   <a href="#learn" class="btn mr-sm-5">Lihat Program</a>
-                <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
+                <a href="https://api.whatsapp.com/send?phone=628118889611&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
     </div>
             
@@ -77,7 +77,7 @@
         
 
         <!-- tentang kami -->
-        <div class="tentang-kami container">
+        <div class="tentang-kami container" id="learn">
 			<div class="judul">
                 <h2>Apa yang kamu pelajari ?</h2>
                 <p>Kamu akan mempelajari secara lengkap pemrograman dan algoritma untuk menjadi seorang Game Maker yang handal.
@@ -96,7 +96,7 @@
             <div class="text-detail aktive  beginner-id" data-id="beginner-id">
                 <div class="row text-detail-card">
                     <div class="col-12 col-md-4">
-                        <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/banner_skill_game01.png" alt="" class="img-fluid">
+                        <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/09/box-modul-flashdicsk-game-1.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
                         <p class="judul-courses">Game Development 2D for Beginner Hunter</p>
@@ -121,7 +121,7 @@
             <div class="text-detail intermediate-id text-left" data-id="intermediate-id">
                 <div class="row text-detail-card">
                     <div class="col-12 col-md-4">
-                        <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/banner_skill_game02.png" alt="" class="img-fluid">
+                        <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/09/box-modul-flashdicsk-game-2.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
                         <p class="judul-courses">Game Development 2D for Intermediate Hunter</p>
@@ -142,7 +142,7 @@ Di dalam training ini kamu akan mendapatkan:
             <div class="text-detail expert-id" data-id="expert-id">
                 <div class="row text-detail-card">
                     <div class="col-12 col-md-4">
-                        <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/banner_skill_game03.png" alt="" class="img-fluid">
+                        <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/09/box-modul-flashdicsk-game-3.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
                         <p class="judul-courses">Game Development 2D For Advanced

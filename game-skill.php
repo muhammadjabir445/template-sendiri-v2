@@ -18,7 +18,7 @@
             <br>
             <div class="button">
                   <a href="#learn" class="btn mr-sm-5">Lihat Program</a>
-                <a href="https://api.whatsapp.com/send?phone=6289666263522&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
+                <a href="https://api.whatsapp.com/send?phone=628118889611&text=&source=&data=&app_absent=" target="_blank" class="btn">Hubungi Kami</a>
             </div>
             <img style="" src="https://redhunter.id/wp-content/uploads/2020/09/box-game-development-2D-for-beginner-hunter-b.png" alt="">
 
