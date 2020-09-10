@@ -77,12 +77,12 @@
             <div class="text-detail soft-id aktive" style="padding-top: 40px;" data-id="soft-id">
                 <div class="row">
                     <div class="col-12 col-md-4">
-                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Full-Stack-Developer-with-laravel-vue-JS-b.png" alt="" class="img-fluid">
+                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-modul-flashdicsk-web-3.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
                         <p class="judul-courses">Full Stack Developer with laravel & vue JS</p>
                         <p class="deskripsi">
-                            Kamu akan mempelajari framework javascript untuk frontend vueJS yg akan di padukan dengan backend laravel. Dimana kedua framework ini sangat cocok di gabungkan. Di dalam training ini kamu akan mempelajari: Cara membuat backend dengan laravel, serta menghubungkan laravel dengan vue JS dan membuat project aplikasi. Kelas ini merupakan kelas penyempurna dari kelas-kelas yang telah kamu ikuti sebelumnya, kelas ini akan menentukan apakah kamu berhasil dan layak menjadi seorang profesional Web Developer.</p>                    
+                            Kamu akan mempelajari framework javascript untuk frontend vueJS yg akan di padukan dengan backend laravel. Dimana kedua framework ini sangat cocok di gabungkan. Di dalam training ini kamu akan mempelajari: Cara membuat backend dengan laravel, serta menghubungkan laravel dengan vue JS dan membuat project aplikasi.Kelas ini merupakan kelas penyempurna dari kelas-kelas yang telah kamu ikuti sebelumnya, kelas ini akan menentukan apakah kamu berhasil dan layak menjadi seorang profesional Web Developer.</p>                    
                     </div>
                 </div>
             </div>

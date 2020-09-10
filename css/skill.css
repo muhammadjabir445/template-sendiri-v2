@@ -22,3 +22,7 @@
         text-align: left !important;
     }
 }
+.card-program .col-12 {
+    display: flex;
+}
+

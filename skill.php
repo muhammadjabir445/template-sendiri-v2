@@ -26,6 +26,20 @@
 <meta name="robots" content="index, follow">
 
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/template-sendiri-v2/css/skill.css">
+<style>
+    .btn-card,
+.btn-card:hover {
+        color: black; text-decoration:none;
+}
+.card-program .card .gambar{
+    display: flex;
+}
+.card .gambar img {
+    width: 160px !important;
+    height: 240px !important;
+    margin: auto;
+}
+</style>
 <?php include('partial/nav_next.php') ?>
 <div class="head text-center text-white">
         <div class="container">
@@ -57,8 +71,12 @@
             <div class="card-program container text-left">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-4 mt-3">
+                        <a href="https://redhunter.id/basic-web-developer/" class="btn-card">
                         <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_web01.png" class="card-img-top" alt="...">
+                            <div class="gambar">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Web-Developer-for-Beginner-hunter-b.png" class="card-img-top" alt="...">
+                            </div>
+                            
                             <div class="card-body web">
                                 <h3 class="card-title">Web Development for Beginner</h3>
                                 <p class="card-text">Dengan Jaminan Kerja, program ini akan membantu mewujudkan karir impianmu.
@@ -70,11 +88,15 @@
                                 <span class="float-right">Beginner</span>
                             </div>
                         </div>
+                        </a>
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
+                        <a href="https://redhunter.id/fullstack-laravel-developer-2/" class="btn-card">
                         <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_web02.png" class="card-img-top" alt="...">
+                            <div class="gambar">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Full-Stack-Laravel-Developer-b.png" class="card-img-top" alt="...">
+                            </div>
                             <div class="card-body web">
                                 <h3 class="card-title">Full Stack Laravel Developer</h3>
                                 <p class="card-text">Program yang dirancang untuk menyempurnakan skill yang
@@ -88,11 +110,15 @@
                                     
                             </div>
                         </div>
+                        </a>
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
-                        <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_web03.png" class="card-img-top" alt="...">
+                        <a href="https://redhunter.id/fullstack-developer-laravel-dan-vuejs/" class="btn-card" style="">
+                        <div class="card" style="">
+                            <div class="gambar" >
+                                <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Full-Stack-Developer-with-laravel-vue-JS-b.png"  alt="...">
+                            </div>  
                             <div class="card-body web">
                                 <h3 class="card-title">Full Stack Developer with laravel & vue JS</h3>
                                 <p class="card-text">TIngkatkan Kreatifitas dan logika sang anak
@@ -105,11 +131,16 @@
 
                             </div>
                         </div>
+                        </a>
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
+                        <a href="https://redhunter.id/basic-android-hunter-2/" class="btn-card">
+
                         <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_android01.png" class="card-img-top" alt="...">
+                            <div class="gambar">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Basic-Android-Hunter-b1.png" class="card-img-top" alt="...">
+                            </div>
                             <div class="card-body android">
                                 <h3 class="card-title">
                                     Basic Android <br> Hunter</h3>
@@ -124,11 +155,15 @@
 
                             </div>
                         </div>
+                        </a>
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
+                        <a href="https://redhunter.id/intermediate-android-hunter-2/" class="btn-card">
                         <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_android02.png" class="card-img-top" alt="...">
+                            <div class="gambar">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Intermediate-Android-Hunter-b.png" class="card-img-top" alt="...">
+                            </div>
                             <div class="card-body android">
                                 <h3 class="card-title">
                                     Intermediate Android Hunter</h3>
@@ -143,11 +178,15 @@
 
                             </div>
                         </div>
+                        </a>
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
+                        <a href="https://redhunter.id/expert-android-hunter-2/" class="btn-card">
                         <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_android03.png" class="card-img-top" alt="...">
+                            <div class="gambar">
+                                <img src="https://redhunter.id/wp-content/uploads/2020/09/box-expert-android-hunter-b.png" class="card-img-top" alt="...">
+                            </div>
                             <div class="card-body android">
                                 <h3 class="card-title">
                                     Expert Android <br> Hunter</h3>
@@ -163,11 +202,16 @@
 
                             </div>
                         </div>
+                        </a>
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
+                        <a href="https://redhunter.id/game-development-2d-for-beginner-hunter-2/" class="btn-card">
+
                         <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_game01.png" class="card-img-top" alt="...">
+                            <div class="gambar">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-game-development-2D-for-beginner-hunter-b.png" class="card-img-top" alt="...">
+                            </div>
                             <div class="card-body game">
                                 <h3 class="card-title">
                                     Game Development 2D For Beginner <br> Hunter</h3>
@@ -183,11 +227,16 @@
 
                             </div>
                         </div>
+                        </a>
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
+                        <a href="https://redhunter.id/game-development-2d-for-intermediate-hunter-2/" class="btn-card">
+                        
                         <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_game02.png" class="card-img-top" alt="...">
+                            <div class="gambar">
+                                <img src="https://redhunter.id/wp-content/uploads/2020/09/box-game-development-2D-for-intermediate-hunter-b.png" class="card-img-top" alt="...">
+                            </div>
                             <div class="card-body game">
                                 <h3 class="card-title">
                                     Game Development 2D For Intermediate <br> Hunter</h3>
@@ -202,11 +251,15 @@
 
                             </div>
                         </div>
+                        </a>
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
+                        <a href="https://redhunter.id/game-development-2d-for-advanced-hunter-2/" class="btn-card">
                         <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_game03.png" class="card-img-top" alt="...">
+                            <div class="gambar">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-game-development-2D-for-advanced-hunter-b.png" class="card-img-top" alt="...">
+                            </div>
                             <div class="card-body game">
                                 <h3 class="card-title">
                                     Game Development 2D For Advanced <br> Hunter</h3>
@@ -222,11 +275,16 @@
 
                             </div>
                         </div>
+                        </a>
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
+                        <a href="https://redhunter.id/career-program-security/" class="btn-card">
+
                         <div class="card">
-                            <img src="<?php echo get_home_url();  ?>/wp-content/uploads/2020/01/banner_skill_security01.png" class="card-img-top" alt="...">
+                            <div class="gambar">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/01/security-RedHunter-Penetration-Tester-Profesional-small.png" class="card-img-top" alt="...">
+                            </div>
                             <div class="card-body security">
                                 <h3 class="card-title">
                                     RedHunter Penetration Tester Profesional</h3>
@@ -242,6 +300,7 @@
 
                             </div>
                         </div>
+                        </a>
                     </div>
                 </div>
             </div>

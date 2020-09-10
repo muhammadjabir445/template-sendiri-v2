@@ -62,7 +62,7 @@
         <?php include('partial/media-partner.php') ?>
      
         <!-- tentang kami -->
-        <div class="card-detail-program container">
+        <div class="card-detail-program container" id="learn">
 			<div class="judul">
                 <h2>Apa yang kamu pelajari ?</h2>
                 <p>Kamu akan mempelajari secara lengkap pemrograman dan algoritma <br>
@@ -76,7 +76,7 @@
             <div class="text-detail soft-id aktive" style="padding-top: 40px;" data-id="soft-id">
                 <div class="row">
                     <div class="col-12 col-md-4">
-                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Web-Developer-for-Beginner-hunter-b.png" alt="" class="img-fluid">
+                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-modul-flashdicsk-web-1.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
                         <p class="judul-courses">Web Developer For Beginner</p>

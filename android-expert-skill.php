@@ -80,7 +80,7 @@
             <div class="text-detail soft-id aktive" style="padding-top: 40px;" data-id="soft-id">
                 <div class="row">
                     <div class="col-12 col-md-4">
-                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-expert-android-hunter-b.png" alt="" class="img-fluid">
+                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-modul-flashdicsk-android-3.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
                         <p class="judul-courses">Expert Android Hunter</p>

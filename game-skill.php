@@ -79,7 +79,7 @@
             <div class="text-detail soft-id aktive" style="padding-top: 40px;" data-id="soft-id">
                  <div class="row">
                     <div class="col-12 col-md-4">
-                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-game-development-2D-for-beginner-hunter-b.png" alt="" class="img-fluid">
+                        <img src="https://redhunter.id/wp-content/uploads/2020/09/box-modul-flashdicsk-game-1.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-12 col-md-8 text-left">
                         <p class="judul-courses">Game Development 2D for Beginner Hunter</p>
