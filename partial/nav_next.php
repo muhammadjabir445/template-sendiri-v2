@@ -54,7 +54,7 @@
                         </div>
                     </div>
 <!--                     <a class="nav-item nav-link link"  href="#">Virtual Labs</a> -->
-                    <a class="nav-item nav-link link"  href="https://redhunter.id/about-3/">About</a>
+                    <a class="nav-item nav-link link"  href="https://redhunter.id/about/">About</a>
                     <a class="nav-item nav-link link"  href="https://redhunter.id/blog/">Blog</a>
                     <!-- <a class="nav-item nav-link link" href="#product">full time</a> -->
                 

@@ -147,3 +147,8 @@ color:#3e3e3e;
         font-size: 30px !important;
     }
 }
+
+.btn:focus {
+    box-shadow: none !important;
+    border-color: none !important;
+}

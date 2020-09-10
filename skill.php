@@ -92,7 +92,7 @@
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
-                        <a href="https://redhunter.id/fullstack-laravel-developer-2/" class="btn-card">
+                        <a href="https://redhunter.id/fullstack-laravel-developer/" class="btn-card">
                         <div class="card">
                             <div class="gambar">
                             <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Full-Stack-Laravel-Developer-b.png" class="card-img-top" alt="...">
@@ -103,7 +103,7 @@
                                      kamu miliki saat ini, dengan berbagai tingkatan kelas akan
                                       memudahkan kamu untuk menentukan  pelatihan yang dibutuhkan
                                     .</p>
-                                <a href="https://redhunter.id/fullstack-laravel-developer-2/" class="btn-selengkapnya">Selengkapnya</a>
+                                <a href="https://redhunter.id/fullstack-laravel-developer/" class="btn-selengkapnya">Selengkapnya</a>
                                 <hr>
                                 <span>Tingkatan</span>
                                 <span class="float-right">Intermediate</span>
@@ -135,7 +135,7 @@
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
-                        <a href="https://redhunter.id/basic-android-hunter-2/" class="btn-card">
+                        <a href="https://redhunter.id/basic-android-hunter/" class="btn-card">
 
                         <div class="card">
                             <div class="gambar">
@@ -148,7 +148,7 @@
                                     menggunakan bahasa pemrograman Java. Kelas ini merupakan kelas dasar 
                                     yang wajib kamu ikuti sebelum belajar Android Programming lebih jauh
                                     .</p>
-                                <a href="https://redhunter.id/basic-android-hunter-2/" class="btn-selengkapnya">Selengkapnya</a>
+                                <a href="https://redhunter.id/basic-android-hunter/" class="btn-selengkapnya">Selengkapnya</a>
                                 <hr>
                                 <span>Tingkatan</span>
                                 <span class="float-right">Beginner</span>
@@ -159,7 +159,7 @@
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
-                        <a href="https://redhunter.id/intermediate-android-hunter-2/" class="btn-card">
+                        <a href="https://redhunter.id/intermediate-android-hunter/" class="btn-card">
                         <div class="card">
                             <div class="gambar">
                             <img src="https://redhunter.id/wp-content/uploads/2020/09/box-Intermediate-Android-Hunter-b.png" class="card-img-top" alt="...">
@@ -171,7 +171,7 @@
                                     disini kamu akan mempelajari hal-hal yang bersifat penting 
                                     dalam pengembangan aplikasi android. Disini kamu mulai memasuki
                                      materi yang lebih kompleks dibandingkan materi basic.</p>
-                                <a href="https://redhunter.id/intermediate-android-hunter-2/" class="btn-selengkapnya">Selengkapnya</a>
+                                <a href="https://redhunter.id/intermediate-android-hunter/" class="btn-selengkapnya">Selengkapnya</a>
                                 <hr>
                                 <span>Tingkatan</span>
                                 <span class="float-right">Intermediate</span>
@@ -182,7 +182,7 @@
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
-                        <a href="https://redhunter.id/expert-android-hunter-2/" class="btn-card">
+                        <a href="https://redhunter.id/expert-android-hunter/" class="btn-card">
                         <div class="card">
                             <div class="gambar">
                                 <img src="https://redhunter.id/wp-content/uploads/2020/09/box-expert-android-hunter-b.png" class="card-img-top" alt="...">
@@ -195,7 +195,7 @@
                                      serta penggunaan framework-framework yang sangat baik dalam pengembangan
                                       aplikasi android
                                     .</p>
-                                <a href="https://redhunter.id/expert-android-hunter-2/" class="btn-selengkapnya">Selengkapnya</a>
+                                <a href="https://redhunter.id/expert-android-hunter/" class="btn-selengkapnya">Selengkapnya</a>
                                 <hr>
                                 <span>Tingkatan</span>
                                 <span class="float-right">Expert</span>
@@ -206,7 +206,7 @@
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
-                        <a href="https://redhunter.id/game-development-2d-for-beginner-hunter-2/" class="btn-card">
+                        <a href="https://redhunter.id/game-development-2d-for-beginner-hunter/" class="btn-card">
 
                         <div class="card">
                             <div class="gambar">
@@ -220,7 +220,7 @@
                                      : Pengenalan Unity Hub & Unity Editor, Pengenalan C# Fundamental,
                                       dan masih banyak lainnya
                                 </p>
-                                <a href="https://redhunter.id/game-development-2d-for-beginner-hunter-2/" class="btn-selengkapnya">Selengkapnya</a>
+                                <a href="https://redhunter.id/game-development-2d-for-beginner-hunter/" class="btn-selengkapnya">Selengkapnya</a>
                                 <hr>
                                 <span>Tingkatan</span>
                                 <span class="float-right">Beginner</span>
@@ -231,7 +231,7 @@
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
-                        <a href="https://redhunter.id/game-development-2d-for-intermediate-hunter-2/" class="btn-card">
+                        <a href="https://redhunter.id/game-development-2d-for-intermediate-hunter/" class="btn-card">
                         
                         <div class="card">
                             <div class="gambar">
@@ -244,7 +244,7 @@
                                      dalam? This training for you! Dalam training ini kamu akan mendapatkan
                                       : OOP yang lebih baik, Object Pooling, Parallax Background,
                                        Data Saving, dan masih banyak lainnya.</p>
-                                <a href="https://redhunter.id/game-development-2d-for-intermediate-hunter-2/" class="btn-selengkapnya">Selengkapnya</a>
+                                <a href="https://redhunter.id/game-development-2d-for-intermediate-hunter/" class="btn-selengkapnya">Selengkapnya</a>
                                 <hr>
                                 <span>Tingkatan</span>
                                 <span class="float-right">Intermediate</span>
@@ -255,7 +255,7 @@
                     </div>
 
                     <div class="col-12 col-md-4 mt-3">
-                        <a href="https://redhunter.id/game-development-2d-for-advanced-hunter-2/" class="btn-card">
+                        <a href="https://redhunter.id/game-development-2d-for-advanced-hunter/" class="btn-card">
                         <div class="card">
                             <div class="gambar">
                             <img src="https://redhunter.id/wp-content/uploads/2020/09/box-game-development-2D-for-advanced-hunter-b.png" class="card-img-top" alt="...">
@@ -268,7 +268,7 @@
                                      karena kita menggunakan aplikasi Photon untuk menyiapkannya
                                       untuk kita. Didalam training ini kamu akan mendapatkan
                                 </p>
-                                <a href="https://redhunter.id/game-development-2d-for-advanced-hunter-2/" class="btn-selengkapnya">Selengkapnya</a>
+                                <a href="https://redhunter.id/game-development-2d-for-advanced-hunter/" class="btn-selengkapnya">Selengkapnya</a>
                                 <hr>
                                 <span>Tingkatan</span>
                                 <span class="float-right">Expert</span>
