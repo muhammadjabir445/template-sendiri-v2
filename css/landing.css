@@ -70,6 +70,11 @@ transition: all 0.2s ease-in-out;
     box-sizing: border-box;
     min-height: 250px;
 }
+@media(max-width:720px) {
+    .text-detail-card-mengapa .gambar {
+        margin-bottom: 40px;
+    }
+}
 .text-detail-card .title,.text-detail-card-mengapa .title {
     font-weight: 600;
     line-height: 1.8;

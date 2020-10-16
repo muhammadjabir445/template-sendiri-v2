@@ -92,10 +92,10 @@
                     <div class="row">
                         <div class="col-12 col-md-6 card-fasilitas">
                             <div class="row text-detail-card-mengapa">
-                                <div class="col-3 gambar">
-                                    <img title="jaminan Pekerjaan" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/icon-mengapa-jaminan-pekerjaan.png" alt="Jaminan pekerjaan peserta" srcset="" width="80px" class="img-fluid">
+                                <div class="col-12 col-md-3 gambar">
+                                    <img title="jaminan Pekerjaan" src="https://redhunter.id/wp-content/uploads/2020/01/icon-mengapa-jaminan-pekerjaan.png" alt="Jaminan pekerjaan peserta" srcset="" width="80px" class="img-fluid">
                                 </div>
-                                <div class="col-9">
+                                <div class="col-12 col-md-9">
                                     <p class="title">JAMINAN PEKERJAAN</p>
                                     <p class="deskripsi">Seluruh peserta yang telah menyelesaikan masa pelatihan akan diberikan kesempatan untuk berkarir.
                                          Redhunter Academy memiliki 5+ hiring partner
@@ -107,10 +107,10 @@
     
                         <div class="col-12 col-md-6 card-fasilitas">
                             <div class="row text-detail-card-mengapa">
-                                <div class="col-3 gambar">
+                                <div class="col-12 col-md-3 gambar">
                                 <img title="kurikulum relevan dengan dunia kerja" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/icon-mengapa-kurikulum.png" alt="kurikulum terupdate" srcset="" width="80px" class="img-fluid">
                                 </div>
-                                <div class="col-9">
+                                <div class="col-12 col-md-9">
                                     <p class="title">KURIKULUM RELEVAN DENGAN DUNIA KERJA</p>
                                     <p class="deskripsi">Kami memiliki tim khusus yang siap untuk melakukan pengembangan kurikulum
                                          terbaru yang dirancang serta dikembangkan sesuai dengan kemampuan yang dibutuhkan dalam dunia kerja.</p>
@@ -121,10 +121,10 @@
     
                         <div class="col-12 col-md-6 card-fasilitas">
                             <div class="row text-detail-card-mengapa">
-                                <div class="col-3 gambar">
+                                <div class="col-12 col-md-3 gambar">
                                 <img title="Waktu Belajar Fleksibel" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/icon-mengapa-waktu-fleksibel.png" alt="waktu belajar fleksibel" srcset="" width="80px" class="img-fluid">
                                 </div>
-                                <div class="col-9">
+                                <div class="col-12 col-md-9">
                                     <p class="title">WAKTU BELAJAR FLEKSIBEL</p>
                                     <p class="deskripsi">Kamu dapat dengan mudah menyesuaikan jadwal pelatihan,
                                          dengan waktu yang kamu miliki tetap mendapatkan kualitas belajar yang sama,
@@ -136,10 +136,10 @@
     
                         <div class="col-12 col-md-6 card-fasilitas">
                             <div class="row text-detail-card-mengapa">
-                                <div class="col-3 gambar">
+                                <div class="col-12 col-md-3 gambar">
                                 <img title="Fasilitas Berstanda Nasional" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/icon-mengapa-fasilitas.png" alt="Fasilitas Web" srcset="" width="80px" class="img-fluid">
                                 </div>
-                                <div class="col-9">
+                                <div class="col-12 col-md-9">
                                     <p class="title">FASILITAS BERSTANDAR NASIONAL</p>
                                     <p class="deskripsi">Kami telah menyediakan beberapa fasilitas yang selalu up to date dengan kualitas terbaik,
                                          yang dapat kamu gunakan untuk menunjang keberhasilan serta kesempurnaan hasil belajar kamu.</p>
@@ -150,10 +150,10 @@
     
                         <div class="col-12 col-md-6 card-fasilitas">
                             <div class="row text-detail-card-mengapa">
-                                <div class="col-3 gambar">
+                                <div class="col-12 col-md-3 gambar">
                                 <img title="Mentoring" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/icon-mengapa-mentoring.png" alt="Mentoring Redhunter Academy" srcset="" width="80px" class="img-fluid">
                                 </div>
-                                <div class="col-9">
+                                <div class="col-12 col-md-9">
                                     <p class="title">MENTORING</p>
                                     <p class="deskripsi">Terus berlatih adalah kunci keberhasilan dalam belajar.
                                          Trainer kami siap membantu kamu untuk menyelesaikan
@@ -168,7 +168,7 @@
                                 <div class="col-3 gambar">
                                 <img title="Sistem Pembayaran Mudah" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/icon-mengapa-pembayaran.png" alt="Sistem pembayaran pelatihan" srcset="" width="80px" class="img-fluid">
                                 </div>
-                                <div class="col-9">
+                                <div class="col-12 col-md-9">
                                     <p class="title">SISTEM PEMBAYARAN MUDAH</p>
                                     <p class="deskripsi">Dengan sistem pembayaran yang dipermudah, membantu kamu untuk tetap Fokus
                                          dalam belajar tanpa harus memusingkan biaya pelatihan.
