@@ -22,7 +22,11 @@ yang kamu butuhkan.">
 <meta property = "twitter:description" content="Raih peluang karir di Dunia Digital dengan Career Program by Redhunter Academy,konsultasikan dengan tim kami,pilih program pelatihan
 yang kamu butuhkan.">
 <meta property = "twitter:image" content="https://redhunter.id/wp-content/uploads/2020/01/logo-kotak-graph-01.png">
-
+<style>
+ .card-program .card {
+        min-height: 660px !important;
+ }
+</style>
 <!-- ini metatag robot  -->
 <meta name="robots" content="index, follow">
 <!-- ini naro metatag -->
@@ -63,7 +67,7 @@ yang kamu butuhkan.">
                     
                     <div class="col-12 col-md-3 mt-3">
                         <div class="card">
-                            <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/banner_skill_web02.png" class="card-img-top" alt="...">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-modul-flashdicsk-web-1.png" class="card-img-top" alt="...">
                             <div class="card-body game">
                                 <h3 class="card-title">Web Development Program</h3>
                                 <p class="card-text">Di program Web Development ini kamu akan belajar bagaimana membangun sebuah Web Application secara lengkap dan utuh, yaitu front end dan back end development.</p>
@@ -76,7 +80,7 @@ yang kamu butuhkan.">
 
                     <div class="col-12 col-md-3 mt-3">
                         <div class="card">
-                            <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/banner_skill_android02.png" class="card-img-top" alt="...">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-modul-flashdicsk-android-1.png" class="card-img-top" alt="...">
                             <div class="card-body game">
                                 <h3 class="card-title">Android Development Program</h3>
                                 <p class="card-text">Kamu akan mempelajari secara lengkap pemrograman dan algoritma untuk menjadi seorang Android developer yang handal walaupun kamu tidak memiliki background IT sekalipun.</p>
@@ -88,7 +92,7 @@ yang kamu butuhkan.">
 
                     <div class="col-12 col-md-3 mt-3">
                         <div class="card">
-                            <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/banner_skill_game03.png" class="card-img-top" alt="...">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-modul-flashdicsk-game-1.png" class="card-img-top" alt="...">
                             <div class="card-body game">
                                 <h3 class="card-title">Game Development Program</h3>
                                 <p class="card-text">Training ini adalah langkah awal untuk Menjadi professional Game developer yang menguasai Game development secara expert, kamu akan mampu membuat game 2D yang kompleks.</p>
@@ -102,7 +106,7 @@ yang kamu butuhkan.">
 
                     <div class="col-12 col-md-3 mt-3">
                         <div class="card">
-                            <img src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/banner_skill_security01.png" class="card-img-top" alt="...">
+                            <img src="https://redhunter.id/wp-content/uploads/2020/09/box-modul-flashdicsk-security.png" class="card-img-top" alt="...">
                             <div class="card-body security">
                                 <h3 class="card-title">Security Program</h3>
                                 <p class="card-text">Di Security Program ini kamu akan belajar bagaimana menjadi seorang Penetrationtester (Pentester)yang handal dalam melakukan uji penetrasi sebuah sistem.</p>

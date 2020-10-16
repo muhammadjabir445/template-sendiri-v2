@@ -6,6 +6,7 @@
                     <thead>
                         <tr>
                             <th>No</th>
+                            <th>Batch</th>
                             <th>Kelas</th>
                             <th>Awal Pendaftaran</th>
                             <th>Akhir Pendaftaran</th>

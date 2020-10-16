@@ -56,10 +56,13 @@
 					   }
                   
 					var status = value.status_pendaftaran < 0 ? `Selesai` : `<a href="https://redhunter.id/daftar/" class="btn-daftar">Daftar Sekarang</a>`
-					table = table + `
+					var batch = value.name
+                    batch = batch.split(" ");
+                    table = table + `
 							<tr>
                             <td>${index + 1}</td>
-                            <td class="text-left">${value.name}</td>
+                            <td>${batch[1]}</td>
+                            <td class="text-left">${batch[2]}</td>
                             <td>${value.awal_pendaftaran}</td>
                           <td>${value.akhir_pendaftaran}</td>
                             <td>
