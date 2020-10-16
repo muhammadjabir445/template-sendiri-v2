@@ -18,11 +18,13 @@
                 </div>
                 <div class="col-12 col-md-3">
                     <h3>Waktu Oprasional</h3>
-                    <span>Senin-Sabtu</span>
+                    <span>Senin - Sabtu</span>
                     <br>
                     <span>08.00 - 17.00</span>
-                    <br>
-                    <p>Tel. +62 896 6626 3522</p>
+                    <br>	
+					<p><a href="tel://0212255-2760" >Telp. (021) 2255-2760</a></p>
+					<span><a href="https://api.whatsapp.com/send?phone=628118889611&text=&source=&data=&app_absent=" target="_blank">Whatsapp. 0811-8889-611 </a> </span>
+					
                  
                 </div>
                 <div class="col-12 col-md-3">
@@ -58,11 +60,12 @@
 					var status = value.status_pendaftaran < 0 ? `Selesai` : `<a href="https://redhunter.id/daftar/" class="btn-daftar">Daftar Sekarang</a>`
 					var batch = value.name
                     batch = batch.split(" ");
+					var kelas = value.name.split(`${batch[0]} ${batch[1]}`)
                     table = table + `
 							<tr>
                             <td>${index + 1}</td>
                             <td>${batch[1]}</td>
-                            <td class="text-left">${batch[2]}</td>
+                            <td class="text-left">${kelas[1]}</td>
                             <td>${value.awal_pendaftaran}</td>
                           <td>${value.akhir_pendaftaran}</td>
                             <td>
